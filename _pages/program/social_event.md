@@ -1,7 +1,7 @@
 ---
 title: Social Event
 layout: single
-excerpt: "ACL 2026 Social Event"
+excerpt: "NAACL 2027 Social Event."
 permalink: /program/social_event/
 sidebar:
   nav: "program"

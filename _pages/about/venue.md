@@ -1,7 +1,7 @@
 ---
 title: Venue
 layout: single
-excerpt: "ACL 2026 Venue"
+excerpt: "NAACL 2027 Venue"
 permalink: /venue/
 sidebar:
   nav: "venue"

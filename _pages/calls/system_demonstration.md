@@ -1,7 +1,7 @@
 ---
 title: System Demonstrations
 layout: single
-excerpt: "ACL 2026 System Demonstration."
+excerpt: "NAACL 2027 System Demonstration."
 permalink: /calls/system_demonstration/
 sidebar:
   nav: "calls"

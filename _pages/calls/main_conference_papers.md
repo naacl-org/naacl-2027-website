@@ -1,7 +1,7 @@
 ---
 title: Main Conference
 layout: single
-excerpt: "ACL 2026 Main Conference."
+excerpt: "NAACL 2027 Main Conference."
 permalink: /calls/main_conference_papers/
 sidebar:
   nav: "calls"

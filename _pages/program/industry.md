@@ -1,7 +1,7 @@
 ---
 title: Accepted Industry Track Papers
 layout: single
-excerpt: "Accepted Industry Track Papers of ACL 2026"
+excerpt: "Accepted Industry Track Papers of NAACL 2027."
 permalink: /program/industry/
 sidebar:
   nav: "program"

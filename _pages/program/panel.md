@@ -1,7 +1,7 @@
 ---
 title: Panel
 layout: single
-excerpt: "ACL 2026 Panel"
+excerpt: "NAACL 2027 Panel."
 permalink: /program/panel/
 sidebar:
   nav: "program"

@@ -2,7 +2,7 @@
 title: Call for Shared Interest and Affinity Group Events
 layout: single
 author: diversity-chairs
-excerpt: "ACL 2026 Shared Interest and Affinity Group Events."
+excerpt: "NAACL 2027 Shared Interest and Affinity Group Events."
 permalink: /calls/bof_affinity_events/
 sidebar:
   nav: "calls"

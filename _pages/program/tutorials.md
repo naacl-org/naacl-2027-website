@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 layout: single
-excerpt: "ACL 2026 Tutorials."
+excerpt: "NAACL 2027 Tutorials."
 permalink: /program/tutorials/
 sidebar:
   nav: "program"

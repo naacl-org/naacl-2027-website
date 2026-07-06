@@ -1,7 +1,7 @@
 ---
 title: Keynotes
 layout: single
-excerpt: "ACL 2026 Keynote Speakers"
+excerpt: "NAACL 2027 Keynote Speakers."
 permalink: /program/keynotes/
 sidebar:
   nav: "program"

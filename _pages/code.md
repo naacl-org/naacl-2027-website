@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 layout: single
-excerpt: "ACL 2026 Code of Conduct."
+excerpt: "NAACL 2027 Code of Conduct."
 permalink: /code/
 ---
 
@@ -15,7 +15,7 @@ ACL adopts the ACM Code of Ethics (https://www.acm.org/code-of-ethics) in the ve
 
 ## Anti-Harassment Policy
 
-ACL 2025 adheres to the ACL Anti-Harassment Policy. Any participant who experiences harassment or hostile behavior may contact any current member of the ACL Professional Conduct Committee or Jennifer Rachford, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
+NAACL 2027 adheres to the ACL Anti-Harassment Policy. Any participant who experiences harassment or hostile behavior may contact any current member of the ACL Professional Conduct Committee or Jennifer Rachford, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
 
 The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the aims and goals of the ACL. These require a community and an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and embraces diversity. For these reasons, ACL is dedicated to providing a harassment-free experience for all the members, as well as participants at our events and in our programs.
 

@@ -1,7 +1,7 @@
 ---
 title: Industry Track
 layout: single
-excerpt: "ACL 2026 Industry Track."
+excerpt: "NAACL 2027 Industry Track."
 permalink: /calls/industry_track/
 sidebar:
   nav: "calls"

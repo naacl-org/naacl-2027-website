@@ -1,7 +1,7 @@
 ---
 title: Welcome Reception
 layout: single
-excerpt: "ACL 2026 Welcome Reception"
+excerpt: "NAACL 2027 Welcome Reception"
 permalink: /program/reception/
 sidebar:
   nav: "program"

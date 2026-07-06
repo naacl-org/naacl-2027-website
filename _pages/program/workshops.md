@@ -1,7 +1,7 @@
 ---
 title: Workshops
 layout: single
-excerpt: "ACL 2026 Workshops."
+excerpt: "NAACL 2027 Workshops."
 permalink: /program/workshops/
 sidebar:
   nav: "program"
