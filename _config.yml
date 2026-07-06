@@ -20,7 +20,7 @@ livereload               : true
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "NAACL 2027"
+title                    : "NAACL"
 title_separator          : "-"
 #subtitle                 : # site tagline that appears below site title in masthead
 name                     : "acl"
