@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/sf.jpg"
-  caption: "Photo by Rezaul Karim"
+  caption: "Photo by Garth Pratt"
 excerpt: "San Francisco, California, United States<br>June 1 - 5, 2027"
 ---
 
