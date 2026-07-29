@@ -123,7 +123,7 @@ Conference dates | June 1-5, 2027 |
 
 ## Contact
 
-### Workshop Chairs
+### NAACL Workshop Chairs
 
  - Jeremy Gwinnup (Air Force Research Laboratory)
  - Manling Li (Northwestern University)
