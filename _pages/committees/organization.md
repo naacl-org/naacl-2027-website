@@ -320,10 +320,10 @@ sidebar:
 %}
 
 {% include committee-member.html
-    name="Jocelyn Dunstan"
-    picture="https://www.cs.jhu.edu/~kevinduh/t/naacl27/web/JocelynDunstan.jpeg"
+    name="Manuel Mager"
+    picture="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=AtfatawAAAAJ&citpid=1"
     site=""
-    institution="Catholic University of Chile"
+    institution="Universidad Iberoamericana"
 %}
 
 ## Virtual Infrastructure Chairs
