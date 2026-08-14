@@ -9,17 +9,19 @@ toc: True
 toc_sticky: True
 ---
 
-NAACL 2027 will take place in San Francisco, California, USA, from June 1 to June 5, 2027. We invite long and short paper submissions featuring substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing (NLP). Submissions should make a clear and substantive contribution to the field of NLP. Contributions may be methodological, empirical, theoretical, linguistic, resource-oriented, or focused on evaluation methods and reproducibility. Surveys and position papers are welcome when they offer a substantial original synthesis, perspective, insight, or argument. As in recent years, some of the presentations at the conference will be of papers accepted by the Transactions of the ACL (TACL) and the Computational Linguistics (CL) journals.
+NAACL 2027 will take place in San Francisco, California, USA, from June 1 to June 5, 2027. We invite long and short paper submissions featuring substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing (NLP). Submissions should make a clear and substantive contribution to the field of NLP. Contributions may be methodological, empirical, theoretical, linguistic, resource-oriented, or focused on evaluation methods and reproducibility. Surveys and position papers are welcome when they offer a substantial original synthesis, perspective, insight, or argument. As in recent years, some of the presentations at the conference will be of papers accepted by the *Transactions of the ACL* (*TACL*) and the *Computational Linguistics* (*CL*) journals.
 
 ## Important Dates
 
-ARR submission deadline (long & short papers) | October 12, 2026 |
-Reviewer registration deadline for ALL authors | October 12, 2026 |
-Meta-reviews released | December 18, 2026 |
-NAACL commitment deadline | December 23, 2026 |
-Notification of acceptance (long & short papers) | February 10, 2027 |
-Camera-ready papers due (long & short) | TBD |
-Conference dates | June 1 - 5, 2027 |
+|  |  |
+|:---|---:|
+| ARR submission deadline (long & short papers) | October 12, 2026 |
+| Reviewer registration deadline for ALL authors | October 12, 2026 |
+| Meta-reviews released | December 18, 2026 |
+| NAACL commitment deadline | December 23, 2026 |
+| Notification of acceptance (long & short papers) | February 10, 2027 |
+| Camera-ready papers due (long & short) | TBD |
+| Conference dates | June 1–5, 2027 |
 
 <style>
 .dates-table { font-size: .9em; }
@@ -30,7 +32,7 @@ Conference dates | June 1 - 5, 2027 |
 
 {: .dates-table}
 <br>
-<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
+<b>All deadlines are 11:59 p.m. <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
 
 Following the ACL and ARR policies, there is no anonymity period requirement.
 
@@ -47,7 +49,7 @@ Papers that have received reviews and a meta-review from ARR (whether from the A
 
 Note that this link will be available only two weeks before the commitment deadline.
 
-Dual submissions are not allowed, please check the ARR policies for details.
+Dual submissions are not allowed; please check the ARR policies for details.
 
 ### Note on commitment
 
@@ -104,7 +106,7 @@ NAACL 2027 will use ACL Rolling Review (ARR) as a reviewing system, but final de
 
 Authorship during commitment. During the commitment phase, it is not allowed to modify the author list (i.e., addition/deletion of authors is not allowed). However, modification of author order is possible.
 
-NAACL 2027 has chosen this approach in coordination with *CL conferences, which are adopting the same procedure and a coordinated submission plan to allow maximum flexibility during their submission periods for the authors. At each cycle, after a paper has been fully reviewed, authors have the option to commit their paper to a conference, or revise and resubmit for another round of reviews.
+NAACL 2027 has chosen this approach in coordination with \*CL conferences, which are adopting the same procedure and a coordinated submission plan to allow maximum flexibility during their submission periods for the authors. At each cycle, after a paper has been fully reviewed, authors have the option to commit their paper to a conference, or revise and resubmit for another round of reviews.
 
 The reviewing process will continue to be double-blind. Reviewers will not see authors, nor will authors see reviewers and reviews on ARR will not be made publicly visible. However, authors will be given the option through ARR to make their anonymized submitted articles publicly visible.
 
