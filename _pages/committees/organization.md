@@ -73,7 +73,7 @@ sidebar:
 
 {% include committee-member.html
     name="Shafiq Joty"
-    picture="/assets/images/committee/Safiq_Joty.jpg"
+    picture="/assets/images/committee/Shafiq_Joty.jpg"
     site="https://raihanjoty.github.io/"
     institution="Salesforce Research, NTU"
     email="sjoty@salesforce.com"
@@ -273,7 +273,7 @@ sidebar:
 
 {% include committee-member.html
     name="Alvin Grissom II"
-    picture="/assets/images/committee/Alvin_Grisson_II.jpg"
+    picture="/assets/images/committee/Alvin_Grissom_II.jpg"
     site=""
     institution="Haverford College"
     email="agrissom@haverford.edu"
