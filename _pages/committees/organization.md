@@ -38,7 +38,7 @@ sidebar:
 {% include committee-member.html
     name="Huan Sun"
     picture="/assets/images/committee/Huan_Sun.jpg"
-    site=""
+    site="https://u.osu.edu/ihudas/people/"
     institution="Ohio State University"
     email="sun.397@osu.edu"
 %}
@@ -82,7 +82,7 @@ sidebar:
 {% include committee-member.html
     name="Tiago Torrent"
     picture="/assets/images/committee/Tiago_Torrent.jpg"
-    site=""
+    site="https://www.tiagotorrent.com/"
     institution="Federal University of Juiz de Fora, CNPq"
     email="tiago.torrent@ufjf.br"
 %}
@@ -116,7 +116,7 @@ sidebar:
 {% include committee-member.html
     name="Nikita Bhutani"
     picture="/assets/images/committee/Nikita_Bhutani.jpg"
-    site=""
+    site="https://megagon.ai/our-team/nikita-bhutani/"
     institution="Megagon Labs"
     email="nikita@megagon.ai"
 %}
@@ -134,7 +134,7 @@ sidebar:
 {% include committee-member.html
     name="Sowmya Vajjala"
     picture="/assets/images/committee/Sowmya_Vajjala.jpg"
-    site=""
+    site="https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/sowmya-vajjala"
     institution="National Research Council, Canada"
     email="Sowmya.Vajjala@nrc-cnrc.gc.ca"
 %}
@@ -196,7 +196,7 @@ sidebar:
 {% include committee-member.html
     name="Vivek Gupta"
     picture="/assets/images/committee/Vivek_Gupta.jpg"
-    site=""
+    site="https://vgupta123.github.io/"
     institution="Arizona State University"
     email="vgupt140@asu.edu"
 %}
@@ -318,7 +318,7 @@ sidebar:
 {% include committee-member.html
     name="Aya Zirikly"
     picture="/assets/images/committee/Aya_Zirikly.jpg"
-    site=""
+    site="https://ayahzirikly.wordpress.com/"
     institution="George Washington University"
     email="ayah.zirikly@gwu.edu"
 %}
@@ -354,7 +354,7 @@ sidebar:
 {% include committee-member.html
     name="Anietie Andy"
     picture="/assets/images/committee/Anietie_Andy.jpg"
-    site=""
+    site="https://nlp.howard.edu/"
     institution="Howard University"
     email="anietie.andy@howard.edu"
 %}
@@ -406,7 +406,7 @@ sidebar:
 {% include committee-member.html
     name="Abulhair Saparov"
     picture="/assets/images/committee/Abulhair_Saparov.jpg"
-    site=""
+    site="https://asaparov.org/"
     institution="Purdue University"
     email="asaparov@purdue.edu"
 %}
@@ -478,7 +478,7 @@ sidebar:
 {% include committee-member.html
     name="Asad Sayeed"
     picture="/assets/images/committee/Asad_Sayeed.jpg"
-    site=""
+    site="https://asayeed.github.io/"
     institution="University of Gothenburg"
     email="asad.sayeed@gu.se"
 %}
@@ -486,7 +486,7 @@ sidebar:
 {% include committee-member.html
     name="Xiaojun Wan"
     picture="/assets/images/committee/Xiaojun_Wan.jpg"
-    site=""
+    site="https://wanxiaojun.github.io/"
     institution="Peking University"
     email="wanxiaojun@pku.edu.cn"
 %}
@@ -494,7 +494,7 @@ sidebar:
 {% include committee-member.html
     name="Giovanni Da San Martino"
     picture="/assets/images/committee/Giovanni_Da_San_Martino.jpg"
-    site=""
+    site="https://www.math.unipd.it/~dasan/index.html"
     institution="University of Padova"
     email="giovanni.dasanmartino@unipd.it"
 %}
