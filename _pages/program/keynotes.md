@@ -1,7 +1,7 @@
 ---
-title: Keynotes
+title: Invited Keynotes
 layout: single
-excerpt: "NAACL 2027 Keynote Speakers."
+excerpt: "NAACL 2027 Invited Keynotes."
 permalink: /program/keynotes/
 sidebar:
   nav: "program"
