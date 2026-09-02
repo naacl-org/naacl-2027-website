@@ -20,7 +20,7 @@ The 2027 Annual Conference of the Nations of the Americas Chapter of the Associa
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| September 2, 2026 | [Call for tutorials](/calls/tutorials/) is out.
+| September 2, 2026 | [Call for tutorial proposals](/calls/tutorials/) is out.
 | August 14, 2026 | [Call for papers](/calls/main_conference_papers/) is out.
 | July 28, 2026 | [Call for workshop proposals](/calls/workshops/) is out.
 | July 6, 2026 | The official NAACL 2027 website is launched.
