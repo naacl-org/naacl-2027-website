@@ -61,6 +61,8 @@ calls:
         url: /calls/system_demonstration/
       - title: "Workshop Proposals"
         url: /calls/workshops/
+      - title: "Tutorial Proposals"
+        url: /calls/tutorials/
       - title: "Shared Interest and Affinity Group"
         url: /calls/bof_affinity_events/
       - title: "Volunteers"
