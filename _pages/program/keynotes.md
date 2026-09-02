@@ -11,7 +11,7 @@ toc_sticky: True
 
 <style>
 p.speaker-bio { font-style: italic; font-size: 80%; }
-.speaker-photo { width: 250px; height: 250px; object-fit: contain; margin-top: 10px; margin-bottom: 10px; }
+.speaker-photo { width: 250px; height: 250px; object-fit: contain; margin-top: 40px; margin-bottom: 35px; }
 </style>
 
 ## Richard Socher
