@@ -38,7 +38,7 @@ Shared dates for tutorials at EACL/NAACL/COLING:
 
 Proposal submission deadline | October 2, 2026 |
 Notification of acceptance | November 25, 2026 |
-Deadline for all tutorial materials (slides, abstract, etc) | One month prior to tutorial date |
+Deadline for all tutorial materials (slides, abstract, bibliography, any other materials) | One month prior to tutorial date |
 
 <style>
 .dates-table { font-size: .9em; }
