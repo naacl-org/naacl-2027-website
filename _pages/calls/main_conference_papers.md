@@ -13,7 +13,6 @@ NAACL 2027 will take place in San Francisco, California, USA, from June 1 to Jun
 
 ## Important Dates
 
-|  |  |
 |:---|---:|
 | ARR submission deadline (long & short papers) | October 12, 2026 |
 | Reviewer registration deadline for ALL authors | October 12, 2026 |
