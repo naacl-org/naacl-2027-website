@@ -20,6 +20,7 @@ The 2027 Annual Conference of the Nations of the Americas Chapter of the Associa
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| September 12, 2026 | [System demonstration call for papers](/calls/system_demonstration/) is out.
 | September 12, 2026 | [Industry-track call for papers](/calls/industry_track/) is out.
 | September 2, 2026 | [Call for tutorial proposals](/calls/tutorials/) is out.
 | August 14, 2026 | [Call for papers](/calls/main_conference_papers/) is out.

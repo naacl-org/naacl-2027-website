@@ -115,7 +115,7 @@ The final version should remove anonymisation in text, citation, and figures. Fo
 
 **Presentation requirement for accepted papers:** Industry Track papers will be presented orally or as posters, to be determined by the program committee. All accepted papers must be presented at the conference (either via online or in-person presence). At least one author of each accepted paper must register for NAACL 2027 by the early registration deadline. The NAACL 2027 Industry Track will run in parallel with the Research Track.
 
-Presentation Mode: Accepted papers will be presented orally or as posters, as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between papers presented orally or as posters.
+**Presentation Mode:** Accepted papers will be presented orally or as posters, as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between papers presented orally or as posters.
 
 **Authorship:** The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to the NAACL 2027 Industry Track will be notified of submissions and the final decision. No changes to the order or composition of authorship may be made to submissions to the NAACL 2027 Industry Track after the paper submission deadline.
 
