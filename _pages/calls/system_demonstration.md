@@ -56,7 +56,7 @@ Areas of interest include all topics related to theoretical and applied natural 
 <b>All deadlines are 11:59 p.m. <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth). Note that there is no rebuttal stage.</b>
 
 
-## Best demo award.
+## Best Demo Award
 
 The NAACL 2027 conference will feature a Best Demo Award, recognizing the most outstanding demonstration. It will be judged according to the innovation, the contribution and the completeness of the live demo system.
 
@@ -128,7 +128,7 @@ In addition to acceptance or rejection, papers may receive a conditional accepta
 
 ## Contact
 
-For Questions, please contact: [naacl-2027-demo-chairs@googlegroups.com](naacl-2027-demo-chairs@googlegroups.com)
+For Questions, please contact: [naacl-2027-demo-chairs@googlegroups.com](mailto:naacl-2027-demo-chairs@googlegroups.com)
 
 Kun Qian, Adobe, USA<br>
 Sowmya Vajjala, National Research Council, Canada<br>
