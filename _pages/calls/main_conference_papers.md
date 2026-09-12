@@ -62,7 +62,7 @@ Authors will also have the option to indicate whether they would like their pape
 
 Authors are encouraged to carefully consider their preferred venue before making their commitment, as the designated primary conference cannot be changed after commitment.
 
-For more information, please check out the FAQ section on our blog at <https://2027.naacl.org/blog/index.html>.
+For more information, please check out the [FAQ page](/faq/).
 
 
 ## Submission Topics
