@@ -149,31 +149,25 @@ Authors will be allowed extra space after the sixth page for an optional broader
 
 ## Frequently Asked Questions
 
-_Is the Industry Track only for participants from industry?_
-
+Is the Industry Track only for participants from industry?
 > No, the Industry Track welcomes participants from the entire ACL community. Researchers working on real-world applications that match the Industry Track call for papers are invited to submit papers. Everyone is welcome to attend Industry Track sessions.
 
 
-_What do you mean by real-world applications?_
-
+What do you mean by real-world applications?
 > We are looking for applications that are deployed (or expected to be deployed) for real-world use, i.e., outside controlled environments such as laboratories, classrooms or experimental crowd-sourced setups.
 
 
-_Can students also submit papers to the Industry Track?_
-
+Can students also submit papers to the Industry Track?
 > Yes! If your work matches the Industry Track call for papers, consider submitting a paper to the Industry Track.
 
 
-_I work in industry. Can I still submit my paper to the research track?_
-
+I work in industry. Can I still submit my paper to the research track?
 > Absolutely! There are no changes to the main conference submissions. The Industry Track offers a forum to submit papers describing aspects of real-world applications that may differ in focus from the research track reviewing criteria.
 
 
-_Will the papers in the Industry Track be published in the proceedings?_
-
+Will the papers in the Industry Track be published in the proceedings?
 > Yes, Industry Track papers will be published as a separate volume of the proceedings. For example, see the [NAACL 2025 proceedings](https://aclanthology.org/events/emnlp-2025/).
 
 
-_How do I decide whether to submit to the research track or the Industry Track?_
-
+How do I decide whether to submit to the research track or the Industry Track?
 > Papers describing key lessons learned and challenges pertaining to real-world deployment of NLP and speech technologies are best suited for the Industry Track. Authors are advised to review the call for papers for both tracks and submit to the track that best matches their work. The list of topics and reviewing criteria may be helpful. You can also reach out to the track chairs if you need help deciding.
