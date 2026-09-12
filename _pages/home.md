@@ -29,7 +29,7 @@ The 2027 Annual Conference of the Nations of the Americas Chapter of the Associa
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 11em; }
 </style>
 
 ## Important Dates

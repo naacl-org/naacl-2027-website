@@ -1,5 +1,5 @@
 ---
-title: Call for Papers: Industry Track
+title: "Call for Papers: Industry Track"
 layout: single
 excerpt: "NAACL 2027 Industry Track."
 permalink: /calls/industry_track/
