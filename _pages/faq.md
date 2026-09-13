@@ -9,9 +9,23 @@ toc_sticky: True
 
 <style>
 li > blockquote { margin: 0px 0px 45px 7px; }
-</style>
+</style> 
 
-## FAQ for Authors
+
+## FAQ for October 2026 ARR Cycle
+
+Coming soon!
+
+
+## FAQ for December 2026 Commitment
+
+Given that **NAACL 2027** and **COLING 2027** share the same ARR submission cycle, we would like to clarify some important aspects of submission and commitment.
+
+As in previous cycles, submissions to the Oct 12, 2026 ARR cycle remain conference-agnostic, up to the point at which metareviews are released. At the time of **Commitment**, authors must designate a **primary conference** (either NAACL or COLING). To avoid duplicate commitments, each paper may be committed to only one primary venue.
+Authors will also have the option to indicate whether they would like their paper to be considered for the other conference if it is not accepted by their primary choice. Please note that selecting this option **does not guarantee** that the paper will be considered by the second conference. Such consideration will depend on factors including submission volume, reviewing capacity, and coordination between the two venues.
+Authors are encouraged to carefully consider their preferred venue before making their commitment, as the designated primary conference cannot be changed after commitment.
+
+### For Authors
 
 1. Why are you doing this secondary option? Isn’t this similar to dual submission?
  > **Answer:** This new policy arose because we have two conferences using the same ARR cycle and occurring at similar timeframes. As our field grows, we expect this will become a more common occurrence, so a fair and efficient process is needed. There are two reasons we are introducing this idea of primary conference and secondary option. First, we want to give authors more flexibility in choosing where their papers go. Second, we want to ensure that, at commitment time, both conferences have a sufficient pool of papers under consideration, i.e. we want to avoid an imbalance where one conference receives the majority of papers, which can happen under a mutually-exclusive commitment policy. 
@@ -39,7 +53,7 @@ li > blockquote { margin: 0px 0px 45px 7px; }
  > **Answer:** Note that the “preferred venue” specified in your ARR October 2026 submission form is non-binding and used only to help calculate conference acceptance rates. You may choose a different venue as your “primary conference” in the Commitment phase.
 
 
-## FAQ for Reviewers, Area Chairs, and Senior Area Chairs
+### For Reviewers, Area Chairs, and Senior Area Chairs
 
 1. As a reviewer, does the shared ARR cycle and new commitment policy impact my work in writing reviews? 
  > **Answer:** No. ARR remains conference-agnostic. 
@@ -49,3 +63,8 @@ li > blockquote { margin: 0px 0px 45px 7px; }
 
 3. As a senior area chair, does the shared ARR cycle and new commitment policy impact my work in monitoring reviews in the ARR October cycle and making recommendations in the Commitment phase? 
  > **Answer:** Essentially no. Each conference will recruit its own SACs. While you will all work side-by-side with other conference’s SACs in monitoring reviews in the ARR October cycle, your main work in the Commitment phase will be completely independent. 
+
+
+## FAQ for Registration
+
+Coming soon!
