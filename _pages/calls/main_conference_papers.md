@@ -19,7 +19,7 @@ NAACL 2027 will take place in San Francisco, California, USA, from June 1 to Jun
 | Meta-reviews released | December 18, 2026 |
 | NAACL commitment deadline | December 23, 2026 |
 | Notification of acceptance (long & short papers) | February 10, 2027 |
-| Camera-ready papers due (long & short) | TBD |
+| Camera-ready papers due (long & short) | March 3, 2027 |
 | Conference dates | June 1–5, 2027 |
 
 <style>
@@ -48,13 +48,15 @@ Papers that have received reviews and a meta-review from ARR (whether from the A
 
 Note that this link will be available only two weeks before the commitment deadline.
 
-Dual submissions are not allowed; please check the ARR policies for details.
+Dual submissions are not allowed, please check the [ARR policies for details](https://aclrollingreview.org/about/policies).
+
+New Reciprocal Review Policies: <https://aclrollingreview.org/sustainable-reviewing-2026>.
 
 ### Note on commitment
 
 Given that **NAACL 2027** and **COLING 2027** share the same ARR submission cycle, we would like to clarify some important aspects of submission and commitment.
 
-As in previous cycles, submissions to this ARR cycle remain conference-agnostic, up to the point at which metareviews are released. _**At the time of commitment**_, authors must designate a **primary conference** (either NAACL or COLING). 
+As in previous cycles, submissions to this ARR cycle remain conference-agnostic, up to the point at which metareviews are released. _**At the time of commitment**_, authors must designate a **primary conference** (either NAACL or COLING).
 
 **Note that each paper may be committed to only one primary venue and dual commitment is not allowed.**
 
@@ -81,8 +83,8 @@ NAACL 2027 aims to have a broad technical program. Relevant topics for the confe
  - Information Retrieval and Retrieval-augmented Generation
  - Interpretability and Analysis of Models for NLP
  - Inference-Time Methods
- - Language model architecture and training methods
- - Linguistic theories, Cognitive Modeling and Psycholinguistics
+ - Language Model Architecture and Training Methods
+ - Linguistic Theories, Cognitive Modeling and Psycholinguistics
  - LLM Efficiency
  - Low-resource Methods for NLP
  - Reasoning in NLP and Language Models
@@ -96,6 +98,21 @@ NAACL 2027 aims to have a broad technical program. Relevant topics for the confe
  - Sentiment, Emotion, and Stylistic Analysis
  - Speech Processing and Spoken Language Understanding
  - Language Generation, Summarization, Question Answering
+
+### NAACL-2027 Theme Track: Language as a Medium for Agentic Communication
+
+As AI systems evolve from standalone language models into collaborative agents, natural language is emerging as a primary medium through which agents communicate with humans and one another, coordinate actions, exchange knowledge, and accomplish complex tasks. In this emerging paradigm, language is no longer merely an input or output modality but becomes a computational mechanism for **coordination, reasoning, negotiation, teaching, and collaboration**. This shift raises fundamental questions about what agents should communicate and when, how communication interacts with reasoning and enables collective capabilities, how agents establish common ground and model one another, and when natural language or alternative communication protocols provide an effective medium for agent interaction.
+
+Topics of interest include, but are not limited to:
+ - **Learning to communicate**: Computational methods for learning what, when, and how agents should communicate, including pragmatic and context-sensitive communication strategies.
+ - **Communication and collective reasoning**: How language-mediated interaction enables coordination, collaborative reasoning, and capabilities beyond those of individual agents, including structured communicative strategies such as explaining, arguing, challenging, negotiating, and revising beliefs.
+ - **Modeling communication partners**: Establishing common ground and modeling the knowledge, beliefs, intentions, goals, preferences, or capabilities of communication partners to support effective interaction, including theory-of-mind and perspective-taking capabilities.
+ - **Forms of communication**: Studying when natural language is an effective medium for communication and comparing it with structured, learned, latent, symbolic, or hybrid communication protocols.
+Communication efficiency and reliability: Understanding how information can be exchanged efficiently, how uncertainty, ambiguity, and miscommunication affect interacting agents, and how communication failures and safety risks can be detected and mitigated.
+ - **Evaluation of agent communication**: Benchmarks and methods for measuring the effectiveness, efficiency, faithfulness, robustness, and interpretability of communication.
+
+The theme particularly welcomes work that advances our understanding of natural language **communication as a computational capability of agentic systems**. The use of multiple agents alone is not sufficient for relevance to the theme. Communication should constitute a substantive research question, computational mechanism, or source of capability in the work.
+
 
 ## Two Stage Review: Submission to ARR, Commitment to NAACL
 
