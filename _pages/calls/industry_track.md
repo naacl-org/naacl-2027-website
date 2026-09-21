@@ -12,7 +12,7 @@ toc_sticky: True
 **Conference:** June 1-5, 2027<br>
 **Location:** San Francisco, USA<br>
 **Paper submission deadline:** October 31, 2027 (11:59 PM UTC-12:00, AoE)<br>
-**Submission link:** TBA
+**Submission link:** <https://openreview.net/group?id=aclweb.org/NAACL/2027/Industry_Track>
 
 ## Background
 
@@ -107,7 +107,7 @@ After the bibliography, papers can have an optional appendix with, e.g., example
 
 **Writing assistance:** Overall, the NAACL 2027 Industry Track adheres to the ACL policy on using writing assistants (including AI-based writing assistants and other AI tools) available [here](https://2023.aclweb.org/blog/ACL-2023-policy/). Moreover, following the [new policy of the main NAACL 2027 conference track, regarding paper integrity](https://2026.emnlp.org/calls/main_conference_papers/#new-paper-integrity-policies-at-emnlp), we will take actions against unethical paper submissions that overwhelm community resources, including but not limited to, [thinly sliced contributions](https://blog.icml.cc/2026/01/08/whats-new-in-icml-2026-peer-review/), submissions with hallucinated citations, and entirely AI-generated papers ([AI writing assistance](https://2023.aclweb.org/blog/ACL-2023-policy/) is permitted) as well as submissions that violate the [ACL Policy on Publication Ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics). Such submissions may be desk rejected, and all authors involved in the submission may be ineligible to commit their paper(s) to NAACL 2027 and NAACL 2027.
 
-**Submission system:** Papers have to be submitted through the NAACL 2027 Industry Track online submission system (link TBA).
+**Submission system:** Papers have to be submitted through the [NAACL 2027 Industry Track online submission system](https://openreview.net/group?id=aclweb.org/NAACL/2027/Industry_Track).
 
 **Final version:** Accepted papers will be given one additional page of content (up to 7 pages; ethical considerations, limitations, acknowledgements and references do not count against this limit) so that reviewers’ comments can be taken into account. Previous presentations of the work (e.g., preprints on arXiv.org) should be indicated in a footnote that should be excluded from the review submission, but included in the final version of papers appearing in the NAACL 2027 proceedings.
 
