@@ -35,7 +35,20 @@ The 2027 Annual Conference of the Nations of the Americas Chapter of the Associa
 
 ## Important Dates
 
-Submission deadline (ARR) | October 12, 2026 (stay tuned for details) |
+Workshop proposal deadline | September 4, 2026 |
+Workshop notification of acceptance | October 2, 2026 |
+Tutorial proposal deadline | October 2, 2026 |
+Main submission deadline (ARR) | October 12, 2026 |
+Industry track submission deadline | October 31, 2026 |
+Notification of acceptance (tutorials) | November 25, 2026 |
+System demo submission deadline | December 4, 2026 |
+NAACL commitment deadline | December 23, 2026 |
+Notification of acceptance (main) | February 10, 2027 |
+Notification of acceptance (system demos) | February 10, 2027 |
+Notification of acceptance (industry track) | February 24, 2027 |
+Camera-ready papers due (main) | March 3, 2027 |
+Camera-ready papers due (system demos) | March 3, 2027 |
+Conference dates | June 1-5, 2027 |
 
 <style>
 .dates-table { font-size: .9em; }
