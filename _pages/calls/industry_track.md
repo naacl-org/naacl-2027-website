@@ -11,7 +11,7 @@ toc_sticky: True
 
 **Conference:** June 1-5, 2027<br>
 **Location:** San Francisco, USA<br>
-**Paper submission deadline:** October 31, 2027 (11:59 PM UTC-12:00, AoE)<br>
+**Paper submission deadline:** October 31, 2026 (11:59 PM UTC-12:00, AoE)<br>
 **Submission link:** <https://openreview.net/group?id=aclweb.org/NAACL/2027/Industry_Track>
 
 ## Background
