@@ -14,7 +14,14 @@ li > blockquote { margin: 0px 0px 45px 7px; }
 
 ## FAQ for October 2026 ARR Cycle
 
-Coming soon!
+1. Please explain the two step ARR-Commitment process in simple terms.
+ > **Answer:** Authors first submit their paper to an ARR Review cycle (e.g. October 2026), where they will receive reviews and meta-reviews. Based on that, authors then decide whether to (a) commit the paper to e.g. NAACL on December 23, (b) revise the paper through another ARR Review cycle (e.g. January 2027), or (c) send the paper somewhere else.
+
+2. Please explain the new sustainable reviewing policy that authors need to know about. 
+ > **Answer:** See the ARR [post](https://aclrollingreview.org/sustainable-reviewing-2026).
+
+3. How can I become a reviewer for ARR?
+ > **Answer:**  We always welcome new reviewers! Please check that you mean the qualifications. If yes, then email support@aclrollingreview.org with your OpenReview ID and information that backs up the qualifications. 
 
 
 ## FAQ for December 2026 Commitment
