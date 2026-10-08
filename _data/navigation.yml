@@ -30,6 +30,8 @@ program:
         url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
+      - title: "Student Research Workshop"
+        url: https://naacl27-srw.github.io/
 
   - title: Events
     children:
@@ -62,6 +64,8 @@ calls:
         url: /calls/industry_track/
       - title: "System Demonstrations"
         url: /calls/system_demonstration/
+      - title: "Student Research Workshop"
+        url: /calls/srw/
       - title: "Workshop Proposals"
         url: /calls/workshops/
       - title: "Tutorial Proposals"
