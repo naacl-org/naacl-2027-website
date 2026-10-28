@@ -20,14 +20,14 @@ livereload               : true
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "NAACL"
+title                    : "NAACL-HLT 2027"
 title_separator          : "-"
 #subtitle                 : # site tagline that appears below site title in masthead
-name                     : "acl"
-description              : "Official website for the 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics"
+name                     : "NAACL"
+description              : "NAACL 2027, the 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics, takes place in San Francisco, California, June 1–5, 2027."
 url                      : "https://2027.naacl.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "naacl-org/naacl-2027" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "naacl-org/naacl-2027-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "          " # overrides the website title displayed in the masthead, use " " for no title
@@ -102,8 +102,8 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Organization" # Person or Organization (defaults to Person)
+  name                   : "NAACL" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
