@@ -72,3 +72,14 @@ Authors are encouraged to carefully consider their preferred venue before making
 ## FAQ for Registration
 
 Coming soon!
+
+
+## Contact Information
+
+ - Main conference paper submission: [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
+ - Main conference commitment and post review related topics: [naacl2027-pcs@googlegroups.com](mailto:naacl2027-pcs@googlegroups.com)
+ - Industry-track: [naacl-2027-industry-track@googlegroups.com](mailto:naacl-2027-industry-track@googlegroups.com)
+ - System demonstrations: [naacl-2027-demo-chairs@googlegroups.com](mailto:naacl-2027-demo-chairs@googlegroups.com)
+ - Student Research Workshop: [naacl27-srw@googlegroups.com](mailto:naacl27-srw@googlegroups.com)
+ - Tutorials: [naacl27tutorialchairs@googlegroups.com](mailto:naacl27tutorialchairs@googlegroups.com)
+ - For all other inquiries: [naacl2027-gc@googlegroups.com](mailto:naacl2027-gc@googlegroups.com)
