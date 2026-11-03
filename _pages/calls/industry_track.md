@@ -11,7 +11,9 @@ toc_sticky: True
 
 **Conference:** June 1-5, 2027<br>
 **Location:** San Francisco, USA<br>
-**Paper submission deadline:** October 31, 2026 (11:59 PM UTC-12:00, AoE)<br>
+**Paper submission deadline:** ~~October 31, 2026 (11:59 PM UTC-12:00, AoE)~~<br>
+**Deadline extension and paper integrity:** The NAACL 2027 Industry Track has received a record-high number of submissions. 
+To allow additional time to let authors revise or withdraw as we work on pure AI draft detection with human verification, we are extending the paper submission deadline to November 13, 2026, at 11:59 p.m. UTC-12 (Anywhere on Earth).<br>
 **Submission link:** <https://openreview.net/group?id=aclweb.org/NAACL/2027/Industry_Track>
 
 ## Background
