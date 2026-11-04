@@ -39,7 +39,7 @@ Workshop proposal deadline | September 4, 2026 |
 Workshop notification of acceptance | October 2, 2026 |
 Tutorial proposal deadline | October 2, 2026 |
 Main submission deadline (ARR) | October 12, 2026 |
-Industry track submission deadline | October 31, 2026 |
+Industry track submission deadline | ~~October 31, 2026~~<br>**November 13, 2026** |
 Notification of acceptance (tutorials) | November 25, 2026 |
 System demo submission deadline | December 4, 2026 |
 NAACL commitment deadline | December 23, 2026 |
