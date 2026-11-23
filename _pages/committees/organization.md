@@ -8,7 +8,7 @@ sidebar:
 ---
 
 <style>
-.contact { margin: 0 0 1.0em 0; }
+.contact { margin: 0 0 1.0em 0 !important; }
 </style>
 
 ## General Chair
