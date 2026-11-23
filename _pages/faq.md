@@ -82,4 +82,5 @@ Coming soon!
  - System demonstrations: [naacl-2027-demo-chairs@googlegroups.com](mailto:naacl-2027-demo-chairs@googlegroups.com)
  - Student Research Workshop: [naacl27-srw@googlegroups.com](mailto:naacl27-srw@googlegroups.com)
  - Tutorials: [naacl27tutorialchairs@googlegroups.com](mailto:naacl27tutorialchairs@googlegroups.com)
+ - Visas: [naacl-2027-visa-chairs@googlegroups.com](mailto:naacl-2027-visa-chairs@googlegroups.com)
  - For all other inquiries: [naacl2027-gc@googlegroups.com](mailto:naacl2027-gc@googlegroups.com)

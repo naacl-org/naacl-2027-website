@@ -8,6 +8,7 @@ sidebar:
 ---
 
 ## General Chair
+Contact: [naacl2027-gc@googlegroups.com](mailto:naacl2027-gc@googlegroups.com)
 
 {% include committee-member.html
     name="Kevin Duh"
@@ -18,6 +19,7 @@ sidebar:
 %}
 
 ## Program Chairs
+Contact: [naacl2027-pcs@googlegroups.com](mailto:naacl2027-pcs@googlegroups.com)
 
 {% include committee-member.html
     name="Arman Cohan"
@@ -70,6 +72,7 @@ sidebar:
 %}
 
 ## Tutorial Chairs
+Contact: [naacl27tutorialchairs@googlegroups.com](mailto:naacl27tutorialchairs@googlegroups.com)
 
 {% include committee-member.html
     name="Shafiq Joty"
@@ -88,6 +91,7 @@ sidebar:
 %}
 
 ## Industry Track Chairs
+Contact: [naacl-2027-industry-track@googlegroups.com](mailto:naacl-2027-industry-track@googlegroups.com)
 
 {% include committee-member.html
     name="Eleftheria Briakou"
@@ -122,6 +126,7 @@ sidebar:
 %}
 
 ## Demo Track Chairs
+Contact: [naacl-2027-demo-chairs@googlegroups.com](mailto:naacl-2027-demo-chairs@googlegroups.com)
 
 {% include committee-member.html
     name="Kun Qian"
@@ -166,6 +171,7 @@ sidebar:
 %}
 
 ## Student Research Workshop Chairs
+Contact: [naacl27-srw@googlegroups.com](mailto:naacl27-srw@googlegroups.com)
 
 {% include committee-member.html
     name="Dayeon (Zoey) Ki"
@@ -210,6 +216,7 @@ sidebar:
 %}
 
 ## Visa Chairs
+Contact: [naacl-2027-visa-chairs@googlegroups.com](mailto:naacl-2027-visa-chairs@googlegroups.com)
 
 {% include committee-member.html
     name="Constantine Lignos"
@@ -466,6 +473,7 @@ sidebar:
 %}
 
 ## ARR Editors in Chief
+Contact: [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
 
 {% include committee-member.html
     name="Sarvnaz Karimi"
