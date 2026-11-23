@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/sf.jpg"
   caption: "Photo by Garth Pratt"
-excerpt: "San Francisco, California, United States<br>June 1 - 5, 2027"
+excerpt: "Official website for NAACL 2027, the 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics, June 1-5, 2027 in San Francisco, California."
 ---
 
 ## Welcome!

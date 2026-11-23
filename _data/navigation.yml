@@ -42,7 +42,7 @@ program:
       - title: "Welcome Reception"
         url: /program/reception/
       - title: "Social Event"
-        url: /program/social/
+        url: /program/social_event/
 
   - title: "Accepted Papers"
     children:

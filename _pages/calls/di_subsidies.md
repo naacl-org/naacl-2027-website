@@ -8,6 +8,9 @@ sidebar:
     nav: "calls"
 toc: true
 toc_sticky: true
+# Remove sitemap and noindex once content is added.
+sitemap: false
+noindex: true
 ---
 
 Coming soon!
