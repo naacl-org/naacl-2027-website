@@ -7,8 +7,13 @@ sidebar:
   nav: "committees"
 ---
 
+<style>
+.contact { margin: 0 0 1.0em 0; }
+</style>
+
 ## General Chair
 Contact: [naacl2027-gc@googlegroups.com](mailto:naacl2027-gc@googlegroups.com)
+{: .contact}
 
 {% include committee-member.html
     name="Kevin Duh"
@@ -20,6 +25,7 @@ Contact: [naacl2027-gc@googlegroups.com](mailto:naacl2027-gc@googlegroups.com)
 
 ## Program Chairs
 Contact: [naacl2027-pcs@googlegroups.com](mailto:naacl2027-pcs@googlegroups.com)
+{: .contact}
 
 {% include committee-member.html
     name="Arman Cohan"
@@ -73,6 +79,7 @@ Contact: [naacl2027-pcs@googlegroups.com](mailto:naacl2027-pcs@googlegroups.com)
 
 ## Tutorial Chairs
 Contact: [naacl27tutorialchairs@googlegroups.com](mailto:naacl27tutorialchairs@googlegroups.com)
+{: .contact}
 
 {% include committee-member.html
     name="Shafiq Joty"
@@ -92,6 +99,7 @@ Contact: [naacl27tutorialchairs@googlegroups.com](mailto:naacl27tutorialchairs@g
 
 ## Industry Track Chairs
 Contact: [naacl-2027-industry-track@googlegroups.com](mailto:naacl-2027-industry-track@googlegroups.com)
+{: .contact}
 
 {% include committee-member.html
     name="Eleftheria Briakou"
@@ -127,6 +135,7 @@ Contact: [naacl-2027-industry-track@googlegroups.com](mailto:naacl-2027-industry
 
 ## Demo Track Chairs
 Contact: [naacl-2027-demo-chairs@googlegroups.com](mailto:naacl-2027-demo-chairs@googlegroups.com)
+{: .contact}
 
 {% include committee-member.html
     name="Kun Qian"
@@ -172,6 +181,7 @@ Contact: [naacl-2027-demo-chairs@googlegroups.com](mailto:naacl-2027-demo-chairs
 
 ## Student Research Workshop Chairs
 Contact: [naacl27-srw@googlegroups.com](mailto:naacl27-srw@googlegroups.com)
+{: .contact}
 
 {% include committee-member.html
     name="Dayeon (Zoey) Ki"
@@ -217,6 +227,7 @@ Contact: [naacl27-srw@googlegroups.com](mailto:naacl27-srw@googlegroups.com)
 
 ## Visa Chairs
 Contact: [naacl-2027-visa-chairs@googlegroups.com](mailto:naacl-2027-visa-chairs@googlegroups.com)
+{: .contact}
 
 {% include committee-member.html
     name="Constantine Lignos"
@@ -474,6 +485,7 @@ Contact: [naacl-2027-visa-chairs@googlegroups.com](mailto:naacl-2027-visa-chairs
 
 ## ARR Editors in Chief
 Contact: [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
+{: .contact}
 
 {% include committee-member.html
     name="Sarvnaz Karimi"
